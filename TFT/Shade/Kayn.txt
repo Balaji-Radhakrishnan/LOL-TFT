@@ -1,0 +1,35 @@
+Ability="Reaper"
+
+Ability_Type="Active"
+
+Ability_Description = "Kayn dashes toward his target then slashes all adjacent enemies, dealing magic damage and increasing the cost of their next spell by 33%. If the slash hits exactly one target, Kayn immediately casts again. As Rhaast: Reaping Slash heals Kayn for 50% of the damage it deals. As Shadow Assassin: Reaping Slash deals an extra 50% damage for the first 10 seconds of combat."
+
+Ability_Damage =[400 , 600 , 6666]
+
+Trait="Shade"
+
+Class = "Innate: When combat starts, Shades teleport to the enemy backline. After every third attack Shades dip into the shadows, stealthing and causing their next basic attack to deal bonus magic damage."
+
+Trait_Bonus_Spell_Power = {2:125 Bonus Magic Damage,3:400 Bonus Magic Damage,4:750 Bonus Magic Damage}
+
+Cost = 5
+
+Health = [900 , 1620 , 2916]
+
+Mana = 50
+
+Starting _Mana = 0
+
+Armor = 40
+
+Manna_Regeneration = 40
+
+Damage_Per_Second = [80 , 144 , 259]
+
+Damage = [80 , 144 , 259]
+
+Attack_Speed = 1
+
+Critical_Rate = 25%
+
+Range = 1

@@ -1,0 +1,35 @@
+Ability="Javelin Toss"
+
+Ability_Type="Active"
+
+Ability_Description = "Nidalee throws her Javelin at the furthest enemy, dealing magic damage plus 20% per hex traveled."
+
+Ability_Damage= [ 225 , 350 , 600]
+
+Trait="Sharpshooter"
+
+Class = "Sharpshooters attacks and spells ricochet to nearby enemies dealing reduced damage."
+
+Trait_Bonus_Spell_Power = {2:1 Ricochet with 55% Reduced Damage,4:2 Ricochets with 50% Reduced Damage,6:3 Ricochets with 45% Reduced Damage}
+
+Cost = 1
+
+Health = [550 , 990 , 1782]
+
+Mana = 80
+
+Starting _Mana = 0
+
+Armor = 30
+
+Manna_Regeneration = 20
+
+Damage_Per_Second = [31 , 57 , 102]
+
+Damage = [45 , 81 , 146]
+
+Attack_Speed = 0.7
+
+Critical_Rate = 25%
+
+Range = 4

@@ -1,0 +1,37 @@
+Ability="Contempt for the Weak"
+
+Ability_Type="Passive"
+
+Ability_Description = "Passive: Every third attack, Zed deals bonus magic damage and steals a percent of the target's current Attack Damage."
+
+Ability_Damage= [40 , 50 , 75]
+
+Attack Damage Stolen: [25% , 30% , 35%]
+
+Trait="Shade"
+
+Class = "Innate: When combat starts, Shades teleport to the enemy backline. After every third attack Shades dip into the shadows, stealthing and causing their next basic attack to deal bonus magic damage."
+
+Trait_Bonus_Spell_Power = {2:125 Bonus Magic Damage,3:400 Bonus Magic Damage,4:750 Bonus Magic Damage}
+
+Cost = 2
+
+Health = [600 , 1080 , 1944]
+
+Mana = 0
+
+Starting _Mana = 0
+
+Armor = 20
+
+Manna_Regeneration = 20
+
+Damage_Per_Second = [41 , 74 , 134]
+
+Damage = [55 , 99 , 178]
+
+Attack_Speed = 0.75
+
+Critical_Rate = 25%
+
+Range = 1

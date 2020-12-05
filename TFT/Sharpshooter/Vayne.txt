@@ -1,0 +1,35 @@
+Ability="Silver Bolts"
+
+Ability_Type="Passive"
+
+Ability_Description = "Passive: Whenever Vayne Basic Attacks the same target 3 times, she deals bonus true damage."
+
+Ability_Bonus_True_Damage=[ 50 , 90 , 140 ]
+
+Trait="Sharpshooter"
+
+Class = "Sharpshooters attacks and spells ricochet to nearby enemies dealing reduced damage."
+
+Trait_Bonus_Spell_Power = {2:1 Ricochet with 55% Reduced Damage,4:2 Ricochets with 50% Reduced Damage,6:3 Ricochets with 45% Reduced Damage}
+
+Cost = 1
+
+Health = [500 , 900 , 1620]
+
+Mana = 0
+
+Starting _Mana = 0
+
+Armor = 20
+
+Manna_Regeneration = 20
+
+Damage_Per_Second = [36 , 65 , 117]
+
+Damage = [40 , 72 , 130]
+
+Attack_Speed = 0.9
+
+Critical_Rate = 25%
+
+Range = 4

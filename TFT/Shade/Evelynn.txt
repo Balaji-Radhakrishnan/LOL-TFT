@@ -1,0 +1,37 @@
+Ability="Last Caress"
+
+Ability_Type="Active"
+
+Ability_Description = "Evelynn deals magic damage to up to 3 nearby enemies, then teleports away. The damage is increased against targets below 50% health."
+
+Damage Multiplier = [3 , 3 , 3]
+
+Ability_Damage = [350 , 500 , 1400]
+
+Trait="Shade"
+
+Class = "Innate: When combat starts, Shades teleport to the enemy backline. After every third attack Shades dip into the shadows, stealthing and causing their next basic attack to deal bonus magic damage."
+
+Trait_Bonus_Spell_Power = {2:125 Bonus Magic Damage,3:400 Bonus Magic Damage,4:750 Bonus Magic Damage}
+
+Cost = 3
+
+Health = [600 , 1080 , 1944]
+
+Mana = 60
+
+Starting _Mana = 0
+
+Armor = 20
+
+Manna_Regeneration = 20
+
+Damage_Per_Second = [49 , 88 , 159]
+
+Damage = [70 , 126 , 227]
+
+Attack_Speed = 0.7
+
+Critical_Rate = 25%
+
+Range = 1

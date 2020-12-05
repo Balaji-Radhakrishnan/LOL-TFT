@@ -1,0 +1,39 @@
+Ability="Petrifying Gaze"
+
+Ability_Type="Active"
+
+Ability_Description = "Cassiopeia releases a cone of magic energy towards her target, dealing magic damage to all enemies hit, stunning them for a few seconds, and causing them to take 10% increased damage while stunned."
+
+Ability_Damage = [275 , 400 , 2000]
+
+Bonus Damage = [20% , 20% , 20%]
+
+Stun duration = [2.5 , 3 , 5]
+
+Trait="Mystic"
+
+Class = "All allies gain Magic Resistance."
+
+Trait_Bonus_Spell_Power = {2:40 Magic Resistance,4:100 Magic Resistance,6:200 Magic Resistance}
+
+Cost = 4
+
+Health = [750 , 1350 , 2430]
+
+Mana = 150
+
+Starting _Mana = 80
+
+Armor = 30
+
+Manna_Regeneration = 20
+
+Damage_Per_Second = [33 , 59 , 107]
+
+Damage = [55 , 99 , 178]
+
+Attack_Speed = 0.6
+
+Critical_Rate = 25%
+
+Range = 2

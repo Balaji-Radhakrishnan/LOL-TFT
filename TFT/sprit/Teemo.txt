@@ -1,0 +1,39 @@
+Ability="Sporecloud Dart"
+
+Ability_Type="Active"
+
+Ability_Description = "Teemo fires a dart at his target that explodes into a cloud of spores on contact, poisoning nearby enemies. Poisoned enemies take magic damage over a few seconds and are blinded for the duration."
+
+Ability_Damage= [300 , 450 , 900]
+
+Ability_Duration= [ 2.5 , 3 , 4.5 ]
+
+Ability_Damage Per Second= [80 , 100 , 133]
+
+Trait="Spirit"
+
+Origin = "The first time a Spirit casts their spell, all allies gain Attack Speed based on the spell's mana cost."
+
+Trait_Bonus_Spell_Power = {2:35% of Mana Cost,4:70% of Mana Cost}
+
+Cost = 2
+
+Health = [500 , 900 , 1620]
+
+Mana = 60
+
+Starting _Mana = 0
+
+Armor = 20
+
+Manna_Regeneration = 20
+
+Damage_Per_Second = [39 , 69 , 125]
+
+Damage = [55 , 99 , 178]
+
+Attack_Speed = 0.7
+
+Critical_Rate = 25%
+
+Range = 3

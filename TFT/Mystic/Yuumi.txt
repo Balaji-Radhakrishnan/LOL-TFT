@@ -1,0 +1,37 @@
+Ability="Zoomies"
+
+Ability_Type="Active"
+
+Ability_Description = "Yuumi dashes next to a low health ally, healing them for a percent of their missing health and granting them attack speed for 5 seconds. She then repeats this for the furthest ally."
+
+Healing = [30% , 45% , 75%]
+
+Attack Speed = [30% , 40% , 60%]
+
+Trait="Mystic"
+
+Class = "All allies gain Magic Resistance."
+
+Trait_Bonus_Spell_Power = {2:40 Magic Resistance,4:100 Magic Resistance,6:200 Magic Resistance}
+
+Cost = 3
+
+Health = [600 , 1080 , 1944]
+
+Mana = 40
+
+Starting _Mana = 0
+
+Armor = 20
+
+Manna_Regeneration = 20
+
+Damage_Per_Second = [24 , 43 , 78]
+
+Damage = [40 , 72 , 130]
+
+Attack_Speed = 0.6
+
+Critical_Rate = 25%
+
+Range = 3

@@ -1,0 +1,39 @@
+Ability="Eye of the Storm"
+
+Ability_Type="Active"
+
+Ability_Description = "Janna shields the lowest health allies for 4 seconds. Shielded allies gain Attack Damage for the duration."
+
+Bonus Attack Damage= [ 20 , 30 , 60]
+
+Shield amount = [250 , 300 , 400]
+
+Number of Allies = [2 , 3 , 4]
+
+Trait="Mystic"
+
+Class = "All allies gain Magic Resistance."
+
+Trait_Bonus_Spell_Power = {2:40 Magic Resistance,4:100 Magic Resistance,6:200 Magic Resistance}
+
+Cost = 2
+
+Health = [550 , 990 , 1782]
+
+Mana = 60
+
+Starting _Mana = 30
+
+Armor = 20
+
+Manna_Regeneration = 20
+
+Damage_Per_Second = [24 , 43 , 78]
+
+Damage = [40 , 72 , 130]
+
+Attack_Speed = 0.6
+
+Critical_Rate = 25%
+
+Range = 4

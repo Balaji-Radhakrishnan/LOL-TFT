@@ -1,0 +1,39 @@
+Ability="Rewind Fate"
+
+Ability_Type="Active"
+
+Ability_Description = "Zilean places a protective Time Rune on the 2 allies with the lowest Health. When they would die, they instead resurrect after 3.5 seconds, returning to combat with some health and shredding all negative effects. After resurrecting, they have 50% bonus Attack Speed for the rest of combat."
+
+Number of Allies = [2 , 3 , 10]
+
+Revive Delay = [3.5 , 3 , 1]
+
+Health Restored = [350 , 500 , 3000]
+
+Trait="Mystic"
+
+Class = "All allies gain Magic Resistance."
+
+Trait_Bonus_Spell_Power = {2:40 Magic Resistance,4:100 Magic Resistance,6:200 Magic Resistance}
+
+Cost = 5
+
+Health = [750 , 1350 , 2430]
+
+Mana = 150
+
+Starting _Mana = 100
+
+Armor = 20
+
+Manna_Regeneration = 20
+
+Damage_Per_Second = [34 , 61 , 109]
+
+Damage = [45 , 81 , 146]
+
+Attack_Speed = 0.75
+
+Critical_Rate = 25%
+
+Range = 3

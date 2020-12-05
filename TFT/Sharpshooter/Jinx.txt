@@ -1,0 +1,37 @@
+Ability="Fishbones"
+
+Ability_Type="Active"
+
+Ability_Description = "Jinx's next attack fires a rocket, stunning and dealing magic damage to her target and all adjacent enemies."
+
+Ability_Damage= [ 150 , 250 , 450]
+
+Stun duration= [  1.5 , 2 , 2.5 ]
+
+Trait="Sharpshooter"
+
+Class = "Sharpshooters attacks and spells ricochet to nearby enemies dealing reduced damage."
+
+Trait_Bonus_Spell_Power = {2:1 Ricochet with 55% Reduced Damage,4:2 Ricochets with 50% Reduced Damage,6:3 Ricochets with 45% Reduced Damage}
+
+Cost = 3
+
+Health = [650 , 1170 , 2106]
+
+Mana = 120
+
+Starting _Mana = 70
+
+Armor = 20
+
+Manna_Regeneration = 20
+
+Damage_Per_Second = [56 , 101 , 182]
+
+Damage = [75 , 135 , 243]
+
+Attack_Speed = 0.75
+
+Critical_Rate = 25%
+
+Range = 4

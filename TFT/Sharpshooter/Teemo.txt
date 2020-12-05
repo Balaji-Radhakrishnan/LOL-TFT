@@ -1,0 +1,41 @@
+Ability="Sporecloud Dart"
+
+Ability_Type="Active"
+
+Ability_Description = "Teemo fires a dart at his target that explodes into a cloud of spores on contact, poisoning nearby enemies. Poisoned enemies take magic damage over a few seconds and are blinded for the duration."
+
+Ability_Damage= [300 , 450 , 900]
+
+Duration= [ 2.5 , 3 , 4.5 ]
+
+Damage Per Second= [80 , 100 , 133]
+
+Trait="Sharpshooter"
+
+Class = "Sharpshooters attacks and spells ricochet to nearby enemies dealing reduced damage."
+
+Trait_Bonus_Spell_Power = {2:1 Ricochet with 55% Reduced Damage,4:2 Ricochets with 50% Reduced Damage,6:3 Ricochets with 45% Reduced Damage}
+
+Cost = 2
+
+Health = [500 , 900 , 1620]
+
+Mana = 60
+
+Starting _Mana = 0
+
+Armor = 20
+
+Manna_Regeneration = 20
+
+Damage_Per_Second = [39 , 69 , 125]
+
+Damage = [55 , 99 , 178]
+
+Attack_Speed = 0.7
+
+#critical srike should be taken in percentage
+#the CS value
+Critical_Rate = 25%
+
+Range = 3

@@ -1,0 +1,38 @@
+Ability="Showstopper"
+
+Ability_Type="Active"
+
+Ability_Description = "Sett grabs his target and slams them forward, dealing a percent of his target's maximum health in magic damage to all enemies in a large area. Enemies further from the epicenter take less damage."
+
+Ability_Primary_Damage_Percentage = [ 40 ,  60 , 400]
+
+Ability_Secondary_Damage_Percentage = [ 20 ,  30 , 200]
+
+Trait="The Boss"
+
+Origin = "When The Boss first drops below 40% health, he removes himself from combat to start doing sit-ups. 
+Each sit-up restores 15% of his maximum health and gives him 40% Attack and Movement Speed.
+If he reaches full health he returns to combat Pumped Up, converting his basic attack and spell damage to True Damage.
+If all of his allies die, he will immediately return to combat."
+
+Cost = 5
+
+Health = [1100 , 1980 , 3564]
+
+Mana = 175
+
+Starting _Mana =100
+
+Armor = 60
+
+Manna_Regeneration = 30
+
+Damage_Per_Second = [45,81,146]
+
+Damage = [60 , 108 , 194]
+
+Attack_Speed = 0.75
+
+Critical_Rate = 25
+
+Range = 1

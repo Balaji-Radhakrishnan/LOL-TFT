@@ -1,0 +1,36 @@
+Ability="Dance of Dread"
+
+Ability_Type="Active"
+
+Ability_Description = "Wolf mauls Kindred's target, dealing magic damage and reducing healing by 50% to her target for 5 seconds, while Lamb leaps away from Kindred's target."
+
+Ability_Damage= [450 , 650 , 1000]
+
+Trait="Spirit"
+
+Origin = "The first time a Spirit casts their spell, all allies gain Attack Speed based on the spell's mana cost."
+
+Trait_Bonus_Spell_Power = {2:35% of Mana Cost,4:70% of Mana Cost}
+
+Cost = 3
+
+Health = [650 , 1170 , 2106]
+
+Mana = 35
+
+Starting _Mana = 0
+
+Armor = 20
+
+Manna_Regeneration = 20
+
+Damage_Per_Second = [56 , 101 , 181]
+
+Damage = [70 , 126 , 227]
+
+Attack_Speed = 0.8
+
+Critical_Rate = 25%
+
+Range = 3
+

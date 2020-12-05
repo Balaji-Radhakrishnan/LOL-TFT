@@ -1,0 +1,37 @@
+Ability="Shadow Dash"
+
+Ability_Type="Active"
+
+Ability_Description = "Shen dashes past his target, shielding himself against damage and taunting all adjacent enemies."
+
+Shield_amount = [ 500 , 800 , 4000 ]
+
+Shield_amount_Duration = [ 4 , 4 , 8 ]
+
+Trait="Mystic"
+
+Class = "All allies gain Magic Resistance."
+
+Trait_Bonus_Spell_Power = {2:40 Magic Resistance,4:100 Magic Resistance,6:200 Magic Resistance}
+
+Cost = 4
+
+Health = [950 , 1710 , 3078]
+
+Mana = 100
+
+Starting _Mana = 50
+
+Armor = 60
+
+Manna_Regeneration = 40
+
+Damage_Per_Second = [39 , 70 , 126]
+
+Damage = [60 , 108 , 194]
+
+Attack_Speed = 0.65
+
+Critical_Rate = 25%
+
+Range = 1
